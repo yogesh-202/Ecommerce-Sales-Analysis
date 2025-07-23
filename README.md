@@ -1,7 +1,3 @@
-Here’s a **README file draft** for your *E-commerce Sales Analysis Dashboard*:
-
----
-
 # E-commerce Sales Analysis Dashboard
 
 ## Project Overview
